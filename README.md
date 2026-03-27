@@ -105,4 +105,4 @@ plt.show()
 
 ### Output
 
-![alt text](<submissions/AKSHAY KARTHICK ASR 212224230015/Screenshot 2026-03-24 at 11.03.33 AM.png>)
+<img width="1398" height="948" alt="image" src="https://github.com/user-attachments/assets/279686fa-1730-403c-8ee2-6d9be0180640" />
